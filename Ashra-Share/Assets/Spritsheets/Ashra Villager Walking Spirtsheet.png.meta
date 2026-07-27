@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 3021701861e8b904781cc92e9b9c4aab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6499469157275148759
+    second: Ashra Villager Walking Spirtsheet_0
+  - first:
+      213: 8836767052274099595
+    second: Ashra Villager Walking Spirtsheet_1
+  - first:
+      213: -2258205728924079686
+    second: Ashra Villager Walking Spirtsheet_2
+  - first:
+      213: 4294863796210135759
+    second: Ashra Villager Walking Spirtsheet_3
+  - first:
+      213: 8945688776055910543
+    second: Ashra Villager Walking Spirtsheet_4
+  - first:
+      213: -2836484152612705562
+    second: Ashra Villager Walking Spirtsheet_5
+  - first:
+      213: -5115769582713395923
+    second: Ashra Villager Walking Spirtsheet_6
+  - first:
+      213: 6838269482936590918
+    second: Ashra Villager Walking Spirtsheet_7
+  - first:
+      213: -5995311725193263276
+    second: Ashra Villager Walking Spirtsheet_8
+  - first:
+      213: -5822492353244121019
+    second: Ashra Villager Walking Spirtsheet_9
+  - first:
+      213: -4838189847459875251
+    second: Ashra Villager Walking Spirtsheet_10
+  - first:
+      213: 5884834824141676858
+    second: Ashra Villager Walking Spirtsheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ashra Villager Walking Spirtsheet_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1019
+        width: 112
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ed104bc3f3dc5a0800000000000000
+      internalID: -6499469157275148759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Villager Walking Spirtsheet_1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1019
+        width: 107
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b856ca990d082aa70800000000000000
+      internalID: 8836767052274099595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Villager Walking Spirtsheet_2
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1019
+        width: 107
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab96ab1aadd39a0e0800000000000000
+      internalID: -2258205728924079686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Villager Walking Spirtsheet_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 699
+        width: 107
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc27ac31edb6a9b30800000000000000
+      internalID: 4294863796210135759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Villager Walking Spirtsheet_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 699
+        width: 112
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80f208ab88752c70800000000000000
+      internalID: 8945688776055910543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Villager Walking Spirtsheet_5
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 699
+        width: 112
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eaae7801b8c2a8d0800000000000000
+      internalID: -2836484152612705562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Villager Walking Spirtsheet_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 379
+        width: 112
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25ae954ba22109b0800000000000000
+      internalID: -5115769582713395923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Villager Walking Spirtsheet_7
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 379
+        width: 112
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64264d03dd966ee50800000000000000
+      internalID: 6838269482936590918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Villager Walking Spirtsheet_8
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 379
+        width: 107
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4570f1e10cf5ccca0800000000000000
+      internalID: -5995311725193263276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Villager Walking Spirtsheet_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 59
+        width: 107
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548b479bd0a523fa0800000000000000
+      internalID: -5822492353244121019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Villager Walking Spirtsheet_10
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 59
+        width: 132
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46b042b7fb4bdcb0800000000000000
+      internalID: -4838189847459875251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Villager Walking Spirtsheet_11
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 59
+        width: 117
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3120d6e7122ba150800000000000000
+      internalID: 5884834824141676858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ashra Villager Walking Spirtsheet_0: -6499469157275148759
+      Ashra Villager Walking Spirtsheet_1: 8836767052274099595
+      Ashra Villager Walking Spirtsheet_10: -4838189847459875251
+      Ashra Villager Walking Spirtsheet_11: 5884834824141676858
+      Ashra Villager Walking Spirtsheet_2: -2258205728924079686
+      Ashra Villager Walking Spirtsheet_3: 4294863796210135759
+      Ashra Villager Walking Spirtsheet_4: 8945688776055910543
+      Ashra Villager Walking Spirtsheet_5: -2836484152612705562
+      Ashra Villager Walking Spirtsheet_6: -5115769582713395923
+      Ashra Villager Walking Spirtsheet_7: 6838269482936590918
+      Ashra Villager Walking Spirtsheet_8: -5995311725193263276
+      Ashra Villager Walking Spirtsheet_9: -5822492353244121019
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

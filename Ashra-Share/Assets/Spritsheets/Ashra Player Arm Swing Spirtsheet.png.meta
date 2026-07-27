@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 8a597446c03a2db48b8a3c285954d736
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6112257247836717242
+    second: Ashra Player Arm Swing Spirtsheet_0
+  - first:
+      213: 8468077431718711588
+    second: Ashra Player Arm Swing Spirtsheet_1
+  - first:
+      213: -8624807583625371199
+    second: Ashra Player Arm Swing Spirtsheet_2
+  - first:
+      213: -3701283192804605524
+    second: Ashra Player Arm Swing Spirtsheet_3
+  - first:
+      213: -4071903265707175023
+    second: Ashra Player Arm Swing Spirtsheet_4
+  - first:
+      213: 1043157758876665172
+    second: Ashra Player Arm Swing Spirtsheet_5
+  - first:
+      213: -647927618263872525
+    second: Ashra Player Arm Swing Spirtsheet_6
+  - first:
+      213: 8292711130299742569
+    second: Ashra Player Arm Swing Spirtsheet_7
+  - first:
+      213: -8277891024389720603
+    second: Ashra Player Arm Swing Spirtsheet_8
+  - first:
+      213: 5037506800755379830
+    second: Ashra Player Arm Swing Spirtsheet_9
+  - first:
+      213: -8317556642325975513
+    second: Ashra Player Arm Swing Spirtsheet_10
+  - first:
+      213: 3758438377017462068
+    second: Ashra Player Arm Swing Spirtsheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ashra Player Arm Swing Spirtsheet_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1019
+        width: 112
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab04d11359913d450800000000000000
+      internalID: 6112257247836717242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Player Arm Swing Spirtsheet_1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1019
+        width: 122
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4219810fe87a48570800000000000000
+      internalID: 8468077431718711588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Player Arm Swing Spirtsheet_2
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1019
+        width: 137
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c12ae9e2378e4880800000000000000
+      internalID: -8624807583625371199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Player Arm Swing Spirtsheet_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 699
+        width: 137
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca102cfdb8662acc0800000000000000
+      internalID: -3701283192804605524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Player Arm Swing Spirtsheet_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 699
+        width: 147
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19355cfbd81bd77c0800000000000000
+      internalID: -4071903265707175023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Player Arm Swing Spirtsheet_5
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 699
+        width: 132
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455498e647a0a7e00800000000000000
+      internalID: 1043157758876665172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Player Arm Swing Spirtsheet_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 379
+        width: 147
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb873993491207f0800000000000000
+      internalID: -647927618263872525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Player Arm Swing Spirtsheet_7
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 379
+        width: 137
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969b17a16d0a51370800000000000000
+      internalID: 8292711130299742569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Player Arm Swing Spirtsheet_8
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 379
+        width: 112
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e53bd1b8f50f1d80800000000000000
+      internalID: -8277891024389720603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Player Arm Swing Spirtsheet_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 59
+        width: 112
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e83a4deb1d8e540800000000000000
+      internalID: 5037506800755379830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Player Arm Swing Spirtsheet_10
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 59
+        width: 112
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e28f65d4a129c80800000000000000
+      internalID: -8317556642325975513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Player Arm Swing Spirtsheet_11
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 59
+        width: 112
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d42547ac7a82430800000000000000
+      internalID: 3758438377017462068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ashra Player Arm Swing Spirtsheet_0: 6112257247836717242
+      Ashra Player Arm Swing Spirtsheet_1: 8468077431718711588
+      Ashra Player Arm Swing Spirtsheet_10: -8317556642325975513
+      Ashra Player Arm Swing Spirtsheet_11: 3758438377017462068
+      Ashra Player Arm Swing Spirtsheet_2: -8624807583625371199
+      Ashra Player Arm Swing Spirtsheet_3: -3701283192804605524
+      Ashra Player Arm Swing Spirtsheet_4: -4071903265707175023
+      Ashra Player Arm Swing Spirtsheet_5: 1043157758876665172
+      Ashra Player Arm Swing Spirtsheet_6: -647927618263872525
+      Ashra Player Arm Swing Spirtsheet_7: 8292711130299742569
+      Ashra Player Arm Swing Spirtsheet_8: -8277891024389720603
+      Ashra Player Arm Swing Spirtsheet_9: 5037506800755379830
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

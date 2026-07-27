@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 4764195858a868343b9b2370fd52ab5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5985318652371286565
+    second: Ashra Bandit Idle Spirtsheet_0
+  - first:
+      213: -4802849057859324299
+    second: Ashra Bandit Idle Spirtsheet_1
+  - first:
+      213: 4073351090766362822
+    second: Ashra Bandit Idle Spirtsheet_2
+  - first:
+      213: 8415409262396340789
+    second: Ashra Bandit Idle Spirtsheet_3
+  - first:
+      213: 3418411468107947493
+    second: Ashra Bandit Idle Spirtsheet_4
+  - first:
+      213: -2993622780786107227
+    second: Ashra Bandit Idle Spirtsheet_5
+  - first:
+      213: 2973465905250740563
+    second: Ashra Bandit Idle Spirtsheet_6
+  - first:
+      213: -1546941622308104116
+    second: Ashra Bandit Idle Spirtsheet_7
+  - first:
+      213: -8901328690609523716
+    second: Ashra Bandit Idle Spirtsheet_8
+  - first:
+      213: 7892497799119844101
+    second: Ashra Bandit Idle Spirtsheet_9
+  - first:
+      213: 7910808177943974721
+    second: Ashra Bandit Idle Spirtsheet_10
+  - first:
+      213: -5539144488174690688
+    second: Ashra Bandit Idle Spirtsheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ashra Bandit Idle Spirtsheet_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1019
+        width: 122
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a3c1e4a9f101350800000000000000
+      internalID: 5985318652371286565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Bandit Idle Spirtsheet_1
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1019
+        width: 122
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576b97c7a3ad85db0800000000000000
+      internalID: -4802849057859324299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Bandit Idle Spirtsheet_2
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1019
+        width: 122
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8349a4c33778830800000000000000
+      internalID: 4073351090766362822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Bandit Idle Spirtsheet_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 699
+        width: 122
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a7aac232a89c470800000000000000
+      internalID: 8415409262396340789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Bandit Idle Spirtsheet_4
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 699
+        width: 122
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed12b46e13a07f20800000000000000
+      internalID: 3418411468107947493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Bandit Idle Spirtsheet_5
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 699
+        width: 122
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac1ab711f38476d0800000000000000
+      internalID: -2993622780786107227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Bandit Idle Spirtsheet_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 379
+        width: 122
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359a43a9c7fd34920800000000000000
+      internalID: 2973465905250740563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Bandit Idle Spirtsheet_7
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 379
+        width: 122
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c481f026ac8288ae0800000000000000
+      internalID: -1546941622308104116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Bandit Idle Spirtsheet_8
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 379
+        width: 122
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3f93797b0287480800000000000000
+      internalID: -8901328690609523716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Bandit Idle Spirtsheet_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 59
+        width: 122
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503371b9ee8c78d60800000000000000
+      internalID: 7892497799119844101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Bandit Idle Spirtsheet_10
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 59
+        width: 122
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1431b94ef16d8cd60800000000000000
+      internalID: 7910808177943974721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Bandit Idle Spirtsheet_11
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 59
+        width: 122
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ed8c68f610123b0800000000000000
+      internalID: -5539144488174690688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ashra Bandit Idle Spirtsheet_0: 5985318652371286565
+      Ashra Bandit Idle Spirtsheet_1: -4802849057859324299
+      Ashra Bandit Idle Spirtsheet_10: 7910808177943974721
+      Ashra Bandit Idle Spirtsheet_11: -5539144488174690688
+      Ashra Bandit Idle Spirtsheet_2: 4073351090766362822
+      Ashra Bandit Idle Spirtsheet_3: 8415409262396340789
+      Ashra Bandit Idle Spirtsheet_4: 3418411468107947493
+      Ashra Bandit Idle Spirtsheet_5: -2993622780786107227
+      Ashra Bandit Idle Spirtsheet_6: 2973465905250740563
+      Ashra Bandit Idle Spirtsheet_7: -1546941622308104116
+      Ashra Bandit Idle Spirtsheet_8: -8901328690609523716
+      Ashra Bandit Idle Spirtsheet_9: 7892497799119844101
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

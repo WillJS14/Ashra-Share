@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 47183b24d342517449fb6f18a665f356
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8715427012696129772
+    second: Ashra Bandit Sword Swing Spirtsheet_0
+  - first:
+      213: -8280776644485601908
+    second: Ashra Bandit Sword Swing Spirtsheet_1
+  - first:
+      213: 1412746987868253665
+    second: Ashra Bandit Sword Swing Spirtsheet_2
+  - first:
+      213: 5624399265499385681
+    second: Ashra Bandit Sword Swing Spirtsheet_3
+  - first:
+      213: -690268714109410044
+    second: Ashra Bandit Sword Swing Spirtsheet_4
+  - first:
+      213: 5702278980405367994
+    second: Ashra Bandit Sword Swing Spirtsheet_5
+  - first:
+      213: -727841974908054034
+    second: Ashra Bandit Sword Swing Spirtsheet_6
+  - first:
+      213: -8647231436116313345
+    second: Ashra Bandit Sword Swing Spirtsheet_7
+  - first:
+      213: 6194780065835095266
+    second: Ashra Bandit Sword Swing Spirtsheet_8
+  - first:
+      213: 6918297341465050979
+    second: Ashra Bandit Sword Swing Spirtsheet_9
+  - first:
+      213: 932007476271112323
+    second: Ashra Bandit Sword Swing Spirtsheet_10
+  - first:
+      213: -1390223062088610175
+    second: Ashra Bandit Sword Swing Spirtsheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ashra Bandit Sword Swing Spirtsheet_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1019
+        width: 172
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f376aee459c0780800000000000000
+      internalID: -8715427012696129772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Bandit Sword Swing Spirtsheet_1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1019
+        width: 162
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85a519e385c41d80800000000000000
+      internalID: -8280776644485601908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Bandit Sword Swing Spirtsheet_2
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1019
+        width: 162
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ede36186e51b9310800000000000000
+      internalID: 1412746987868253665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Bandit Sword Swing Spirtsheet_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 699
+        width: 162
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f0f072551ed0e40800000000000000
+      internalID: 5624399265499385681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Bandit Sword Swing Spirtsheet_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 699
+        width: 152
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40561fff24cab66f0800000000000000
+      internalID: -690268714109410044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Bandit Sword Swing Spirtsheet_5
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 699
+        width: 142
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab41d3d4580922f40800000000000000
+      internalID: 5702278980405367994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Bandit Sword Swing Spirtsheet_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 379
+        width: 152
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee59cf0849f26e5f0800000000000000
+      internalID: -727841974908054034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Bandit Sword Swing Spirtsheet_7
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 379
+        width: 162
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa32b7e2dcdef780800000000000000
+      internalID: -8647231436116313345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Bandit Sword Swing Spirtsheet_8
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 379
+        width: 172
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e495c506a748f550800000000000000
+      internalID: 6194780065835095266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Bandit Sword Swing Spirtsheet_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 59
+        width: 167
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fbd8007cab20060800000000000000
+      internalID: 6918297341465050979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Bandit Sword Swing Spirtsheet_10
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 59
+        width: 182
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380e5279cd72fec00800000000000000
+      internalID: 932007476271112323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Bandit Sword Swing Spirtsheet_11
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 59
+        width: 167
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e07a1ad7fe4bce0800000000000000
+      internalID: -1390223062088610175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ashra Bandit Sword Swing Spirtsheet_0: -8715427012696129772
+      Ashra Bandit Sword Swing Spirtsheet_1: -8280776644485601908
+      Ashra Bandit Sword Swing Spirtsheet_10: 932007476271112323
+      Ashra Bandit Sword Swing Spirtsheet_11: -1390223062088610175
+      Ashra Bandit Sword Swing Spirtsheet_2: 1412746987868253665
+      Ashra Bandit Sword Swing Spirtsheet_3: 5624399265499385681
+      Ashra Bandit Sword Swing Spirtsheet_4: -690268714109410044
+      Ashra Bandit Sword Swing Spirtsheet_5: 5702278980405367994
+      Ashra Bandit Sword Swing Spirtsheet_6: -727841974908054034
+      Ashra Bandit Sword Swing Spirtsheet_7: -8647231436116313345
+      Ashra Bandit Sword Swing Spirtsheet_8: 6194780065835095266
+      Ashra Bandit Sword Swing Spirtsheet_9: 6918297341465050979
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

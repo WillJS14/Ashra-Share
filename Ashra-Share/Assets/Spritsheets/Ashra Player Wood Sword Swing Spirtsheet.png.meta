@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 77d62c325c02f0c48911791a18528ee5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3943529275177117627
+    second: Ashra Player Wood Sword Swing Spirtsheet_0
+  - first:
+      213: -9196049888329544467
+    second: Ashra Player Wood Sword Swing Spirtsheet_1
+  - first:
+      213: 7438512311619293008
+    second: Ashra Player Wood Sword Swing Spirtsheet_2
+  - first:
+      213: 8920653783326567019
+    second: Ashra Player Wood Sword Swing Spirtsheet_3
+  - first:
+      213: -4464648210499164056
+    second: Ashra Player Wood Sword Swing Spirtsheet_4
+  - first:
+      213: -1003164329808127810
+    second: Ashra Player Wood Sword Swing Spirtsheet_5
+  - first:
+      213: -7144526348621306115
+    second: Ashra Player Wood Sword Swing Spirtsheet_6
+  - first:
+      213: 3312856153323294226
+    second: Ashra Player Wood Sword Swing Spirtsheet_7
+  - first:
+      213: -2300994294671540460
+    second: Ashra Player Wood Sword Swing Spirtsheet_8
+  - first:
+      213: -7576697102295730993
+    second: Ashra Player Wood Sword Swing Spirtsheet_9
+  - first:
+      213: -7337229768471628935
+    second: Ashra Player Wood Sword Swing Spirtsheet_10
+  - first:
+      213: 8717833448283656311
+    second: Ashra Player Wood Sword Swing Spirtsheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ashra Player Wood Sword Swing Spirtsheet_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1019
+        width: 222
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548d6b79405c549c0800000000000000
+      internalID: -3943529275177117627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Player Wood Sword Swing Spirtsheet_1
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1019
+        width: 222
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decc85d6951116080800000000000000
+      internalID: -9196049888329544467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Player Wood Sword Swing Spirtsheet_2
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1019
+        width: 222
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f00775987ea3760800000000000000
+      internalID: 7438512311619293008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Player Wood Sword Swing Spirtsheet_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 699
+        width: 222
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6aac6f2a578ccb70800000000000000
+      internalID: 8920653783326567019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Player Wood Sword Swing Spirtsheet_4
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 699
+        width: 222
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8682d167b126a02c0800000000000000
+      internalID: -4464648210499164056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Player Wood Sword Swing Spirtsheet_5
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 699
+        width: 222
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb891766b5b0412f0800000000000000
+      internalID: -1003164329808127810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Player Wood Sword Swing Spirtsheet_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 379
+        width: 222
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df62206a32b89dc90800000000000000
+      internalID: -7144526348621306115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Player Wood Sword Swing Spirtsheet_7
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 379
+        width: 222
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e4dc28e11a9fd20800000000000000
+      internalID: 3312856153323294226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Player Wood Sword Swing Spirtsheet_8
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 379
+        width: 222
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ff6e351e93110e0800000000000000
+      internalID: -2300994294671540460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Player Wood Sword Swing Spirtsheet_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 59
+        width: 222
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc47ee6e02a2ad690800000000000000
+      internalID: -7576697102295730993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Player Wood Sword Swing Spirtsheet_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 58
+        width: 230
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973b3de566cec2a90800000000000000
+      internalID: -7337229768471628935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ashra Player Wood Sword Swing Spirtsheet_11
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 59
+        width: 222
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77057f70557fbf870800000000000000
+      internalID: 8717833448283656311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7ab9b9bd8014b3d428f4727a685d7a5b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ashra Player Wood Sword Swing Spirtsheet_0: -3943529275177117627
+      Ashra Player Wood Sword Swing Spirtsheet_1: -9196049888329544467
+      Ashra Player Wood Sword Swing Spirtsheet_10: -7337229768471628935
+      Ashra Player Wood Sword Swing Spirtsheet_11: 8717833448283656311
+      Ashra Player Wood Sword Swing Spirtsheet_2: 7438512311619293008
+      Ashra Player Wood Sword Swing Spirtsheet_3: 8920653783326567019
+      Ashra Player Wood Sword Swing Spirtsheet_4: -4464648210499164056
+      Ashra Player Wood Sword Swing Spirtsheet_5: -1003164329808127810
+      Ashra Player Wood Sword Swing Spirtsheet_6: -7144526348621306115
+      Ashra Player Wood Sword Swing Spirtsheet_7: 3312856153323294226
+      Ashra Player Wood Sword Swing Spirtsheet_8: -2300994294671540460
+      Ashra Player Wood Sword Swing Spirtsheet_9: -7576697102295730993
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
