@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Water To Sand Top Right Inner Corner Animated Tile 2
+  m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AnimatedTile
+  m_AnimatedSprites:
+  - {fileID: -806347845, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: -642258067, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: 1437432481, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: -626682529, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: -653373015, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: -152905284, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: 1958333374, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: -199081385, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: -715403227, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: 114288666, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: -500168006, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: -1648254698, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: 705638073, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: 303017845, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: 1640734628, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: -146255282, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: -181986958, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: -201624309, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: -1812228116, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: -1383448869, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: -448103930, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: -1801391570, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: -771001714, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: 889168242, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: 1646225062, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: -1812907146, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: -128697331, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: 1004961333, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: 1618568131, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: -115016772, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: 1022196626, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  - {fileID: 1570982313, guid: b2f5606d5895c5e42a79f98d57429b0f, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0
