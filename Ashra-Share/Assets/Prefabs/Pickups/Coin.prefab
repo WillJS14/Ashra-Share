@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 8554659161910297437}
   - component: {fileID: 1054698020732537663}
   - component: {fileID: 3717593684803520582}
+  - component: {fileID: -4857198440726999071}
   - component: {fileID: 8040302101525971223}
   m_Layer: 9
   m_Name: Coin
@@ -165,13 +166,29 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5186018614335160791}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6a1e4af9df11eba4998ed7625ea46db1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CoinPickup
   minCoinValue: 1
   maxCoinValue: 5
+  coinType: 0
+--- !u!114 &-4857198440726999071
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5186018614335160791}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 484ee857e9477d94da6dbfabd328e181, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ItemPickup
+  minValue: 1
+  maxValue: 5
+  pickupType: 0
 --- !u!114 &8040302101525971223
 MonoBehaviour:
   m_ObjectHideFlags: 0
