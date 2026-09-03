@@ -16,17 +16,21 @@ public class OpenControlsScreen : MonoBehaviour
     {
         if (Keyboard.current.xKey.wasPressedThisFrame) 
         {
-
-            openControlsScreen.SetActive(true);
-            Time.timeScale = 0f;
-            /*if (menuOpen = true)
-            {
-                Time.timeScale = 0f;
-            }
-            else if (menuOpen = false)
-            {
-                Time.timeScale = 1f;
-            }*/
+            OpenCtrlScreen();
         }
+    }
+
+    public void OpenCtrlScreen()
+    {
+        openControlsScreen.SetActive(true);
+        Time.timeScale = 0f;
+        /*if (menuOpen = true)
+        {
+            Time.timeScale = 0f;
+        }
+        else if (menuOpen = false)
+        {
+            Time.timeScale = 1f;
+        }*/
     }
 }

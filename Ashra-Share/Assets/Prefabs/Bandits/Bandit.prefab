@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 1349635196366070916}
   - component: {fileID: 5095129853010660238}
   - component: {fileID: 7619706296693152950}
+  - component: {fileID: -6499034734619188658}
   - component: {fileID: 7611193434268970651}
   - component: {fileID: 6545179948663871484}
   - component: {fileID: 3275431609766797170}
@@ -134,21 +135,65 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d005981b202a6174d861f1d38cbea0cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
-  maxHealth: 30
-  currentHealth: 0
+  health: {fileID: -6499034734619188658}
   healthBar: {fileID: 8163898652480583347}
-  coinPrefab: {fileID: 0}
+  coinPrefab: {fileID: 5186018614335160791, guid: 96c5ef78465ba3447ba574052f868853, type: 3}
   minCoinsDropped: 4
   maxCoinsDropped: 5
-  wheatPrefab: {fileID: 0}
+  wheatPrefab: {fileID: 6819453236380508844, guid: 5815ab44ae8ab7741a55fa65016c9343, type: 3}
   minWheatDropped: 1
   maxWheatDropped: 5
-  stonePrefab: {fileID: 0}
+  stonePrefab: {fileID: 3802421893010595348, guid: c27564c598742004995a682ef8d2c9e6, type: 3}
   minStoneDropped: 1
   maxStoneDropped: 4
-  woodPrefab: {fileID: 0}
+  woodPrefab: {fileID: 548627499804688047, guid: 0643791e83698834195ddf7373cb3293, type: 3}
   minWoodDropped: 1
   maxWoodDropped: 4
+--- !u!114 &-6499034734619188658
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1819750008023000248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6ab01c56ce12a846acedc576ff19e9c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Health
+  startHealth: 30
+  maxHealth: 30
+  currentHealth: 0
+  Die:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 7619706296693152950}
+        m_TargetAssemblyTypeName: EnemyHealth, Assembly-CSharp
+        m_MethodName: Die
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  DamageTaken:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 7619706296693152950}
+        m_TargetAssemblyTypeName: EnemyHealth, Assembly-CSharp
+        m_MethodName: TakeDamage
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &7611193434268970651
 MonoBehaviour:
   m_ObjectHideFlags: 0

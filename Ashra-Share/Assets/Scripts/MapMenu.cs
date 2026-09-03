@@ -22,8 +22,13 @@ public class MapMenu : MonoBehaviour
         }
         if (Keyboard.current.mKey.wasPressedThisFrame)
         {
-            islandMap.SetActive(true);
-            localMap.SetActive(false);
+            OpenMap();
         }
+    }
+
+    public void OpenMap()
+    {
+        islandMap.SetActive(true);
+        localMap.SetActive(false);
     }
 }

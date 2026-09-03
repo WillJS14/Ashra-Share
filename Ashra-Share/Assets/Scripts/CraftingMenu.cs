@@ -16,9 +16,14 @@ public class CraftingMenu : MonoBehaviour
     {
         if (Keyboard.current.cKey.wasPressedThisFrame)
         {
-            menuOpen = !menuOpen;
-
-            craftingMenu.SetActive(menuOpen);
+            ToggleCraftingMenu();
         }
+    }
+
+    public void ToggleCraftingMenu()
+    {
+        menuOpen = !menuOpen;
+
+        craftingMenu.SetActive(menuOpen);
     }
 }

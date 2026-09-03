@@ -8,6 +8,8 @@ public class ShopMenu : MonoBehaviour
     public float openShopRadius = 10f;
     public GameObject shopPrompt;
 
+    //public GameObject shopBtn;
+
     private bool menuOpen = false;
     private bool shopOpen = false;
     private Transform shop;
@@ -28,26 +30,19 @@ public class ShopMenu : MonoBehaviour
             distanceToShop <= openShopRadius;
 
         shopPrompt.SetActive(playerNearShop);
+        //shopBtn.SetActive(playerNearShop);
 
         if (!playerNearShop)
         {
             menuOpen = false;
             shopMenu.SetActive(false);
             shopMenuClosed.SetActive(false);
+            //Set shop button to active
         }
 
         if (Keyboard.current.tKey.wasPressedThisFrame && playerNearShop)
         {
-            if (shopOpen)
-            {
-                menuOpen = !menuOpen;
-                shopMenu.SetActive(menuOpen);
-            }
-            else
-            {
-                menuOpen = !menuOpen;
-                shopMenuClosed.SetActive(menuOpen);
-            }
+            ToggleShopMenu();
         }
     }
     public void RepairShop(bool repairedShopStatus)
@@ -56,5 +51,19 @@ public class ShopMenu : MonoBehaviour
         shopMenu.SetActive(true);
         shopMenuClosed.SetActive(false);
 
+    }
+
+    public void ToggleShopMenu()
+    {
+        if (shopOpen)
+        {
+            menuOpen = !menuOpen;
+            shopMenu.SetActive(menuOpen);
+        }
+        else
+        {
+            menuOpen = !menuOpen;
+            shopMenuClosed.SetActive(menuOpen);
+        }
     }
 }
