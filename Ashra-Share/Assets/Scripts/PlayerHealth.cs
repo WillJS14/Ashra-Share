@@ -111,6 +111,23 @@ public class PlayerHealth : MonoBehaviour
         Debug.Log(gameObject.name + " took damage!");
     }
 
+    public void HealthTotemActivate()
+    {
+        health.currentHealth = 100;
+    }
+
+    public void SetShieldTotem(bool active)
+    {
+        if (active)
+        {
+            health.damageModifier = -12;
+        }
+        else
+        {
+            health.damageModifier = 0;
+        } //This system needs to be changed if any other damage modifiers come into play, since this function would override them
+    }
+
     public void setBanditsRemaining(int amount)
     {
         banditRemaining = amount;
@@ -127,6 +144,13 @@ public class PlayerHealth : MonoBehaviour
 
     public void Die()
     {
+        //Health totem script is run before this one. Checking whether health is zero here checks if a totem was activated or not, as that script sets health back to full
+        if (health.currentHealth > 0)
+        {
+            UpdateUI();
+            return;
+        }
+
         health.currentHealth = 0;
         UpdateUI();
         Time.timeScale = 0f;
