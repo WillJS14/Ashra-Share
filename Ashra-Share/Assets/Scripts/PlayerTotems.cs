@@ -26,7 +26,7 @@ public class PlayerTotems : MonoBehaviour
         
     }
 
-    public void TryHealthTotem()
+    public void TryHealthTotem() //Runs after player health reaches zero
     {
         if (hasHealthTotem)
         {

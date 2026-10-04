@@ -22,13 +22,12 @@ public class TotemPickup : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+
         if (collision.CompareTag("ItemPickup"))
         {
+            var playerTotems = collision.transform.parent.GetComponent<PlayerTotems>();
 
-            PlayerTotems playerTotems =
-                collision.GetComponent<PlayerTotems>();
-
-            if(playerTotems != null)
+            if (playerTotems != null)
             {
                 switch (type)
                 {
