@@ -102,4 +102,14 @@ public class ShopTrades : MonoBehaviour
             Debug.Log("Not enough stone!");
         }
     }
+
+    public void PurchaseHealthTotem()
+    {
+        Debug.Log("Health Totem Purchased");
+    }
+
+    public void PurchaseShieldTotem()
+    {
+        Debug.Log("Shield Totem Purchased");
+    }
 }
