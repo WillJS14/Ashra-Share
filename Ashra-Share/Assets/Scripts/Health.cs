@@ -7,6 +7,9 @@ public class Health : MonoBehaviour
     public int maxHealth = 200;
     public int currentHealth;
 
+    public int damageModifier; //Value is added to the damage this entity takes. (damage + damageModifier).
+                               //Eg. Shield totem makes this -12
+
     public UnityEvent Die;
     public UnityEvent DamageTaken;
     void Start()
@@ -28,8 +31,8 @@ public class Health : MonoBehaviour
             DamageTaken.Invoke();
             return;
         }
-
-        currentHealth -= damage;
+        
+        currentHealth -= (damage + damageModifier);
         currentHealth = Mathf.Clamp(currentHealth, 0, startHealth);
 
         DamageTaken.Invoke();

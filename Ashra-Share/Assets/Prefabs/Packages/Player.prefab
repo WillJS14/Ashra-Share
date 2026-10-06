@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: 8404215877858230798}
   - component: {fileID: 2606212660352766055}
   - component: {fileID: 5730298761370470352}
+  - component: {fileID: 8029476580784338957}
   - component: {fileID: 976101036723853190}
   m_Layer: 7
   m_Name: Player
@@ -239,6 +240,18 @@ MonoBehaviour:
   Die:
     m_PersistentCalls:
       m_Calls:
+      - m_Target: {fileID: 8029476580784338957}
+        m_TargetAssemblyTypeName: PlayerTotems, Assembly-CSharp
+        m_MethodName: TryHealthTotem
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
       - m_Target: {fileID: 8893507134875209044}
         m_TargetAssemblyTypeName: PlayerHealth, Assembly-CSharp
         m_MethodName: Die
@@ -257,7 +270,7 @@ MonoBehaviour:
       - m_Target: {fileID: 8893507134875209044}
         m_TargetAssemblyTypeName: PlayerHealth, Assembly-CSharp
         m_MethodName: TakeDamage
-        m_Mode: 3
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -303,6 +316,20 @@ MonoBehaviour:
   enemyLayer:
     serializedVersion: 2
     m_Bits: 8
+--- !u!114 &8029476580784338957
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4360898138648493637}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d94521ceed8c20418e5cead01bf9b59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerTotems
+  hasHealthTotem: 0
+  hasShieldTotem: 0
 --- !u!114 &976101036723853190
 MonoBehaviour:
   m_ObjectHideFlags: 0
