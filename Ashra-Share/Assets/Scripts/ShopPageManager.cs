@@ -1,9 +1,11 @@
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 
 public class ShopPageManager : MonoBehaviour
 {
     [SerializeField] private List<GameObject> shopPages = new List<GameObject>();
+    [SerializeField] TextMeshProUGUI pageText;
     private int activePage;
 
 
@@ -48,6 +50,8 @@ public class ShopPageManager : MonoBehaviour
             page.SetActive(false);
         }
 
-        shopPages[activePage].SetActive(true); 
+        shopPages[activePage].SetActive(true);
+
+        pageText.text = "Page " + (activePage + 1).ToString();
     }
 }
